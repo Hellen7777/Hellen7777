@@ -1,0 +1,256 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+  padding: 40px;
+  
+ }
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #ffffff;
+  width: 1200px;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* Main content */
+
+.Main-content {
+  padding: 80px;
+}
+
+/* About my */
+
+.Name {
+  color: #000;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 55px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+.My-profession {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 17px;
+  margin: 0;
+}
+.tex {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 525px;
+  margin-bottom: 64px;
+}
+
+/* My projects */
+
+.Projects {
+  color: #000;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+}
+.projects-item {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: -20px;
+}
+.projects-email {
+  color: #005fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0;
+}
+.Projects-tex {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0;
+}
+
+/* Work Exper */
+
+.Work {
+  color: #000;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 48px;
+  margin-bottom: 12px;
+}
+.Front-End {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  margin-bottom: 12px;
+  margin: 0;
+}
+
+.Freelance {
+  color: #6d9bf5;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.September-itam {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  margin-bottom: 8px;
+}
+
+.wand {
+  color: #000;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+}
+
+.Work-Exper-tex {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 120px;
+  margin-left: -20px;
+}
+.texts {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 509px;
+}
+
+/* Education */
+.Education {
+  color: #000;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 40px;
+margin-bottom: 14px;
+}
+.National {
+  color: #6D9BF5;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0;
+}
+.Management {
+  color: #000;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 14px;
+margin-top: 14px;
+
+}
+
+/* Sidebar */
+.Sidebar {
+  width: 350px;
+  background: #e0ebfe;
+padding-right: 40px;
+
+
+}
+/*May foto  */
+.May-foto {
+  margin-top: 40px;
+  width: 300px;
+  height: 354px;
+  flex-shrink: 0;
+  margin-left: 40px;
+}
+.Contacts-container,
+.Tech-Skills-container,
+.Soft-container {
+  margin-top: 48px;
+  margin-left: 40px;
+}
+
+.sidebar-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  margin-bottom: 8px;
+  padding-right: 123px;
+
+  margin-left: 5px;
+}
+/* Contacts */
+.contacts-type {
+  color: #161d2a;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 8px;
+}
+
+.contacts-item {
+  margin: 0;
+}
+
+.contacts-number {
+  color: #161d2a;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.contacts-email {
+  color: #2979ff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: underline;
+}
+.sidebar-title-item {
+  color: #6d9bf5;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: -13px;
+}
+.sidebar-title-tex {
+  color: #161d2a;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
